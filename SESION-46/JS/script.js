@@ -49,6 +49,12 @@ console.log(lista1);
 let frase = lista1.join(" ");
 console.log(frase);*/
 
-let cadena =  "Hoy es un buen dia";
+/*let cadena =  "Hoy es un buen dia";
 let lista2 = cadena.split(" ")
-console.log(lista2.length);
+console.log(lista2.length);*/
+
+const fecha = "2024-09-10";
+let lista = fecha.split("-");
+lista.reverse();
+let nuevaFecha = lista.join("/");
+console.log(nuevaFecha);
