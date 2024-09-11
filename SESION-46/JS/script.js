@@ -41,10 +41,14 @@ console.log(frase2)
 let frase3 = estaciones.join("+");
 console.log(frase3);*/
 
-let cadena = "Hoy es un buen dia";
+/*let cadena = "Hoy es un buen dia";
 let lista1 = cadena.split(" ");
 console.log(lista1);
 lista1.reverse();
 console.log(lista1);
 let frase = lista1.join(" ");
-console.log(frase);
+console.log(frase);*/
+
+let cadena =  "Hoy es un buen dia";
+let lista2 = cadena.split(" ")
+console.log(lista2.length);
