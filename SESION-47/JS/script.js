@@ -86,3 +86,14 @@ const b = new treeNode(95);
 const c = new treeNode(100);
 const d = new treeNode(46);
 const e = new treeNode(1043);
+
+/*const matriz = [ 
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+];*/
+
+const matriz = [
+    ["Ana","Luz"],
+    ["Mario","Erick"]
+];
